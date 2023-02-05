@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chatgpt": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "grammy": "^1.14.1",
+    "telegraf": "^4.11.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.11.18",
+    "prettier": "^2.8.3"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
