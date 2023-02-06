@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@grammyjs/menu": "^1.1.2",
     "chatgpt": "^4.1.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
