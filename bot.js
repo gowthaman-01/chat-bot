@@ -67,6 +67,7 @@ bot.command("menu", (ctx) => {
 // Stop command
 bot.command("stop", (ctx) => {
   isChatting = false;
+  ctx.reply("Goodbye! I will see you again in 3.0!");
 });
 
 // User message
